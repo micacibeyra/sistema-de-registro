@@ -4,6 +4,10 @@
 :construction:<img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green"> :construction:
 </p>
 
+Para ejecutar el sistema debes poner:
+
+```npm install react```
+
 ![GitHub Org's stars](https://img.shields.io/github/stars/micacibeyra?style=social)
 
 ## :hammer:Esta es mi primer prueba usando Github
